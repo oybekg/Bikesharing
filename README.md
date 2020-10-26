@@ -1,7 +1,7 @@
 # NYC Citibike Analysis
 
 ## Overview of the Citibike Analysis
-The purpose of this analysis is to create a dynamic visualization of Citibike New York data for the month of August 2019 with the use Tableu. 
+The purpose of this analysis is to create a dynamic visualization of Citibike New York data for the month of August 2019 with the use of Tableu in order to make a solid business proposal of a bike-sharing program in Des Moines city, Iowa.
 ## Results 
 
 Link to Tableau Project: [link to dashboard](https://public.tableau.com/profile/fluffy2720#!/vizhome/Challenge_16036624083200/NYCCitibike?publish=yes "link to dashboard")
