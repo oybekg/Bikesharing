@@ -79,5 +79,4 @@ Based on the analysis of the data:
 - The lowest usage was recorded between 12 am and 5 am during the week, which indicates that these periods can be utilized towards maintenance of the service
 - The analysis showed that the Citibike service is significantly more popular among males than females and other unknown genders 
 
-Additional Visualizations: 
-For further examination of the Citibike service and its utilization by the New York population, the analysis should include the information on origins and destinations of each trip, as well as the popularity of service among different age groups. This type of analysis would help to determine the best approach for marketing tactics and location.
+For additional visualizations and further examination of the Citibike service and its utilization by the New York population, the analysis should include the information on origins and destinations of each trip, as well as the popularity of service among different age groups. This type of analysis would help to determine the best approach for marketing tactics and location.
